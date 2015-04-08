@@ -1,0 +1,1 @@
+Following the example tutorial from http://www.alexedwards.net/blog/serving-static-sites-with-go
